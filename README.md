@@ -11,6 +11,7 @@ I enjoy working at the intersection of **Machine Learning, Deep Learning, and Ge
 
 
 ## 🔍Areas Of Interest:
+- Solving Data Structures And Algorithms Questions
 - Designing and training **Machine Learning & Deep Learning models**
 - Building **AI-driven solutions** and intelligent pipelines
 - Writing **clean, efficient, and scalable Python code**
