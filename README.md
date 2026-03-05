@@ -6,7 +6,7 @@
 
 ## 🧠 About Me
 I’m an **AI Engineer** passionate about turning data into intelligent systems.  
-I enjoy working at the intersection of **Machine Learning, Deep Learning, and Generative AI**, and I love building models that solve real-world problems.
+I enjoy working at the intersection of **Machine Learning, Deep Learning, AI Agents , Agentic AI, and Generative AI**, and I love building models that solve real-world problems.
 
 
 
